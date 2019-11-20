@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.g5niusx.rpc.starter.config.ClientAutoConfiguration,\
+com.g5niusx.rpc.starter.config.ServerAutoConfiguration,\
+  com.g5niusx.rpc.starter.config.RpcInterceptorsConfiguration
