@@ -48,7 +48,7 @@
         <lombok.version>1.18.4</lombok.version>
         <blade-log.version>0.1.6</blade-log.version>
         <slf4j-api.version>1.7.25</slf4j-api.version>
-        <fast-json.version>1.2.51</fast-json.version>
+        <fast-json.version>1.2.83</fast-json.version>
         <protostuff.version>1.6.0</protostuff.version>
         <objenesis.version>2.1</objenesis.version>
         <cglib.version>3.2.9</cglib.version>
