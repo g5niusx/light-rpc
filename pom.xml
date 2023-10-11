@@ -52,7 +52,7 @@
         <protostuff.version>1.6.0</protostuff.version>
         <objenesis.version>2.1</objenesis.version>
         <cglib.version>3.2.9</cglib.version>
-        <zookeeper.version>3.4.14</zookeeper.version>
+        <zookeeper.version>3.7.2</zookeeper.version>
     </properties>
 
     <dependencyManagement>
